@@ -1,0 +1,6 @@
+[book]
+authors = ["latteS"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NXUI - A cross-platform GUI toolkit"
