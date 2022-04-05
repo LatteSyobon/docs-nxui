@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aa1d6ad-ed2d-4a8c-9c59-e8418d1afeff" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/first_nxui_app.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
